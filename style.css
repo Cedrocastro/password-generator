@@ -1,0 +1,109 @@
+body {
+    position: absolute;
+    width: 550px;
+    height: 550px;
+    left: 62px;
+    top: 64px;
+    background: #1F2937;
+
+}
+
+.container {
+    margin-top: 115px;
+    margin-left: 52px;
+}
+
+.head-1 {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 40px;
+    /* or 100% */
+
+    letter-spacing: -0.025em;
+
+    color: #FFFFFF;
+
+
+}
+
+.head-2 {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: -0.025em;
+    color: #10B981;
+
+
+}
+
+.parag {
+    
+    width: 372px;
+    height: 28px;
+    left: 52px;
+    top: 205px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #D5D4D8;
+
+}
+
+#generate-btn {
+    margin-top: 51px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 17px 9px 15px;
+    gap: 12px;
+    position: absolute;
+    width: 191px;
+    height: 42px;
+    left: 52px;
+    top: 284px; 
+    background: #10B981;
+    border: none;
+    border-radius: 6px;
+    
+    
+}
+
+.copy {
+    margin-top: 210px;
+}
+
+.copy-1, .copy-2 {
+    text-align: center;
+    display: inline-block;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.copy-1 {
+
+    width: 211px;
+    height: 39px;
+    left: 52px;
+    top: 396px;
+    background: #273549;
+    border-radius: 6px;
+}
+
+.copy-2 {
+    margin-left: 24px;
+    width: 211px;
+    height: 39px;
+    left: 52px;
+    top: 396px;
+    background: #273549;
+    border-radius: 6px;
+
+}
